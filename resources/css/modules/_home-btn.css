@@ -1,0 +1,15 @@
+.home {
+    height: 50px;
+    width: 50px;
+    background-color: #222222;
+    border-radius: 50%;
+    border: solid 1px rgba(255, 255, 255, 0.12);
+    position: absolute;
+    top: 89%;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+} 

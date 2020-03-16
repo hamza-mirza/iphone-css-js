@@ -1,0 +1,10 @@
+.speaker {
+    width: 15%;
+    height: 7px;
+    background-color: #2f2f2f;
+    border-radius: 20px;
+    position: absolute;
+    top: 6.4%;
+    left: 50%;
+    transform: translateX(-50%);
+}

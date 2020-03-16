@@ -1,0 +1,35 @@
+.lock-screen {
+    height: 100%;
+    width: 100%;
+    background: url("../../img/images/glasses.jpg") center center no-repeat;
+    background-size: cover;
+    position: relative;
+    opacity: 0;
+    visibility: hidden;
+    position: relative;
+    transition: all 0.5s;
+}
+
+.lock-visible {
+    opacity: 1;
+    visibility: visible;
+}
+
+.time-lock {
+    padding-top: 50px;
+    font-size: 5em;
+    font-weight: lighter;
+    letter-spacing: 2px;
+}
+
+.day-date {
+    font-size: 1em;
+    font-weight: 300;
+    letter-spacing: 2px;
+    padding-bottom: 210px;
+}
+
+.unlock {
+    letter-spacing: 2px;
+    font-weight: 300;
+}

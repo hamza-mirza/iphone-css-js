@@ -1,0 +1,9 @@
+.power {
+    height: 55px;
+    width: 3%;
+    background-color: #202020;
+    position: absolute;
+    left: 98%;
+    top: 120px;
+    border-radius: 3em;
+}

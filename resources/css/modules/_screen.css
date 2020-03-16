@@ -1,0 +1,9 @@
+.screen {
+    background-color: #2f2f2f;
+    max-width: 90%;
+    height: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 22%;
+    position: relative;
+}
